@@ -1,0 +1,2 @@
+# ComfyUI-SeedVR2_VideoUpscaler
+ComfyUI-SeedVR2_VideoUpscaler
